@@ -1,0 +1,5 @@
+message: Welcome from Config Server
+
+db:
+  host: localhost
+  port: 3306
