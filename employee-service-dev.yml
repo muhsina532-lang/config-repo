@@ -1,0 +1,5 @@
+message: Development Environment
+
+db:
+  host: dev-db.company.com
+  port: 3306
